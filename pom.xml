@@ -13,6 +13,8 @@
         <module>creational-patterns</module>
         <module>structural-patterns</module>
         <module>solid-principles</module>
+        <module>dependency-injection</module>
+        <module>layered-architecture</module>
     </modules>
 
     <properties>
